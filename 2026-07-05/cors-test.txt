@@ -1,0 +1,4 @@
+https://api-s1.theperfumeshop.com -> access-control-allow-origin: https://api-s1.theperfumeshop.com
+https://api.theperfumeshop.com -> access-control-allow-origin: https://api.theperfumeshop.com
+https://media-s1.theperfumeshop.com -> access-control-allow-origin: https://media-s1.theperfumeshop.com
+https://media.theperfumeshop.com -> access-control-allow-origin: https://media.theperfumeshop.com
